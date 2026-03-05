@@ -22,7 +22,8 @@ title: Tech Medic
 email: john@johnkakuk.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm John. I'm a computer science student transitioning into medicine. Documenting my journey here.
-baseurl: "" # the subpath of your site, e.g. /blog
+domain: "johnkakuk.github.io"
+baseurl: "/WDV463-MemoryLane" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thejohnkakuk
 github_username:  johnkakuk
