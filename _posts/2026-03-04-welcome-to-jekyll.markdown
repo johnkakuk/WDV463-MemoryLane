@@ -12,7 +12,7 @@ That made me angrier than I've been in a long time.
 
 I went over, got on my knees, and started chest compressions. I asked the hotel employees how long he'd been like this, whether anyone had seen him fall. I didn't know it at the time, but I was asking the right questions. I just had no idea what to do with the answers.
 
-The man was in opioid overdose. I suspected it — his pupils were pinpoint, though I didn't know yet what that meant. I didn't know that opioids suppress respiration. I didn't know how to do a head tilt-chin lift or artificial ventilations. I knew one thing: chest compressions. So I did that for three or four minutes until EMS arrived.
+The man was in opioid overdose, at least I suspected as much. It was Seattle, after all. In retrospect, I was probably correct. I remember his pupils were pinpoint, though I didn't know yet what that meant. However, I didn't know that opioids suppress respiration. I also didn't know how to do a head tilt-chin lift to open his airway or how to provide artificial ventilations. I knew one thing: chest compressions. So I did that for three or four minutes until EMS arrived.
 
 I'm pretty sure that man was already dead. He was completely limp in a way you can't fake. There was no pressure left in his lungs. When I did compressions, his ribs flexed like old rubber. It was haunting. I don't know what happened to him after the ambulance took him away, and I think about it.
 
