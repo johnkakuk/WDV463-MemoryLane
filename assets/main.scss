@@ -129,6 +129,7 @@ h1 {
 h2 {
   font-size: clamp(1.65rem, 3.2vw, 2.25rem) !important;
   font-weight: 800 !important;
+  margin-top: 2.5rem;
 }
 
 h3 {
@@ -175,6 +176,26 @@ blockquote {
   border-left: 4px solid rgba(255, 255, 255, 0.28);
   padding: 0.85rem 1rem;
   border-radius: 8px;
+}
+
+.post-figure {
+  margin: 1.5rem 0;
+}
+
+.post-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.post-figure figcaption {
+  margin-top: 0.6rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  font-style: italic;
 }
 
 code,

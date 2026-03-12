@@ -1,0 +1,12 @@
+<figure class="post-figure{% if include.class %} {{ include.class }}{% endif %}">
+  <img
+    src="{{ include.src | relative_url }}"
+    alt="{{ include.alt | default: '' | escape }}"
+    loading="{{ include.loading | default: 'lazy' }}"
+    {% if include.width %}width="{{ include.width }}"{% endif %}
+    {% if include.height %}height="{{ include.height }}"{% endif %}
+  >
+  {% if include.caption %}
+    <figcaption>{{ include.caption | escape }}</figcaption>
+  {% endif %}
+</figure>
