@@ -146,8 +146,8 @@ The application is a full-stack system with a modern JavaScript stack.
 
 It exposes a versioned REST API:
 
-/api/v1/decks
-/api/v1/cards
+- /api/v1/decks
+- /api/v1/cards
 
 These endpoints handle CRUD operations for decks and cards.
 
