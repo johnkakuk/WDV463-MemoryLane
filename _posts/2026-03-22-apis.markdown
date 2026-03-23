@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Seriously, Just Learn About APIs Already"
+date:   2026-03-04 19:58:17 -0800
+categories: systems
+---
+
+*API.* Three letters that struck fear into my heart as a 21 year old freelance developer with no real skills outside of WordPress.
+
+And, as hard as it is to admit, one of the few things that actually held me back from being a *real* developer.
+
+Now, am I saying that if you don’t understand how APIs work and how to use them, you’re not a real developer? …Yes. Yes, that’s exactly what I’m saying.
+
+A web developer is a person who works with websites and web applications. That means software that runs on the INTERNET. And APIs are how data is expressed over the internet. Using an API is an absolute necessity for any developer.
+
+Unfortunately, so many tools—namely WordPress, Webflow, and other content management systems—handle all of that legwork internally. Meaning that some web designers are able to build entire websites, even simple web applications, without ever having to understand what’s going on in the back end.
+
+But avoiding the scary stuff is exactly how someone ends up failing to live up to their potential and compromising for something less than excellent.
+
+## Why learn it?
+
+Here’s why (and it’s not complex):
+
+1. APIs will open your world as a developer,
+2. They’re significantly simpler than you think, and
+3. Once you learn the pattern, every API becomes kind of easy.
+
+Seriously, learning how to work with APIs is a MASSIVELY high-value skill that is *super* easy to learn. Here are a few things you’ll be able to do after spending a few days learning:
+
+- Connect your app to real-world services (payment processing, authentication, maps, email/SMS, etcetera)
+- Build your own back end that does exactly what you need (instead of relying on generalized and clunky third party tools like WordPress)
+- Automate boring, repetitive tasks
+- Debug problems faster
+- Prototype complex ideas (fast)
+- Actually understand how modern apps work under the hood
+- **Stop being blocked when there just isn’t a plugin for what you need to do**
+
+And the *really* cool part?
+
+### You only need to learn it once.
+
+All APIs work in the same basic way. Receive, process, return. The formatting and syntax will look different in C# than they look in Node.js or Python, but the core logic is largely identical.
+
+Which means if you learn it once, you can port your knowledge to a new language with a fraction of the effort.
+
+This not only means you can create your own APIs for your own apps, but also that you’ll be more able to understand *existing* APIs and implement them in your own projects.
+
+{% include figure.html src="/assets/images/api-wordpress-1.png" alt="Screenshot from the design" caption="Even WordPress runs on an API. Image from https://wp-umbrella.com/blog/wordpress-rest-api/" %}
+
+## How to learn it
+
+The reason I spent so long avoiding APIs was because I didn’t really understand what they were. They were always unfamiliar and foreign at a core level to me, and so I never took the plunge.
+
+Here is the key perspective shift that made it less scary:
+
+### The core function of an API is simply to:
+
+1. Receive a request from a client,
+2. Process that request on the server, and
+3. Return a response to the client.
+
+That’s literally it. It’s like a function in any programming language, except it happens over the internet. It really isn’t crazy.
+
+Now, granted: the requests need to be formatted a certain way so they can be interpreted properly by the server. And that formatting can look pretty intimidating. But once you boil it down to the simplest elements, it’s likely going to look familiar.
+
+Also:
+
+### 90% of API requests will be for basic CRUD functions
+Create, Read, Update, and Delete used on simple data objects. This is mostly what your API will ever do. The rest is all edge cases.
+
+Almost every complex function of a web app can be simplified to a simple data object. Think of it:
+
+- A stripe charge = { amount, currency, customer\_id, etc }
+- A user = { id, email, password\_hash, etc }
+- A tweet = {author\_id, content, created\_at, etc }
+
+The entire internet is just structured data moving between systems. And once you learn the logic behind it, everything you see online starts to make sense. You don’t just see the organism, you see all the systems inside it that make it work.
+
+And that gives you *power.*
+
+So. If you have any desire to actually *understand* the tools you work with, learn how to work with APIs. Your career will thank you.
