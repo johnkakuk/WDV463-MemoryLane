@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Flashcards App I Actually Enjoy Using"
-date:   2026-03-04 19:58:17 -0800
+date:   2026-03-14 19:58:17 -0800
 categories: systems
 ---
 
